@@ -10,8 +10,6 @@ QuestionsAnswersApp ist eine Java-Kommandozeilenanwendung, die es Benutzern erm�
 - [Verwendung](#verwendung)
 - [Beispiele](#beispiele)
 - [Technische Details](#technische-details)
-- [Beitragende](#beitragende)
-- [Lizenz](#lizenz)
 
 ## Features
 
@@ -110,10 +108,4 @@ Gr체n
 - **Datenstruktur**: `HashMap<String, List<String>>` wird verwendet, um Fragen und ihre Antworten zu speichern.
 - **Fehlerbehandlung**: Das Programm pr체ft, ob die Eingaben g체ltig sind und bietet Fehlermeldungen bei ung체ltigen Eingaben.
 
-## Beitragende
 
-- **David Velickovic** - Entwicklung und Wartung
-
-## Lizenz
-
-Dieses Projekt ist lizenziert unter der MIT-Lizenz - siehe die [LICENSE](LICENSE) Datei f체r Details.
